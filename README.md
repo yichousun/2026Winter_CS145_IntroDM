@@ -2,7 +2,7 @@
 ### Instructor: Yizhou Sun
 - Lecture Time: Mondays & Wednesdays, 2:00 – 4:00 PM
 - Classroom: BH 2760
-- Office hours: Mondays 4-5:30 @  Boelter Hall 3531F
+- Office hours: Mondays 4-5:15pm; Tuesdays 1:30-2:00 @Boelter Hall 3531F
 
 
 ### TAs:
